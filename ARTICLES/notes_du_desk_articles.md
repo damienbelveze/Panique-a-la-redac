@@ -1,0 +1,2 @@
+Ces deux articles sont viraux sur Twitter, je n'ai pas eu le temps de vérifier leur authenticité. Il est évident qu'ils sont extraits de la même publication en ligne, mais je n'ai pas eu le temps de chercher laquelle. 
+ça ne devrait pas vous prendre trop de travail. Désolé de vous planter ainsi, mais c'est un cas de force majeure !
