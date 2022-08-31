@@ -22,4 +22,11 @@ Lorsque la légende ou le texte est mensonger, les étudiants doivent retrouver 
 Le jeu a été conçu pour un nombre de 5 à 7 étudiants. Un ou deux bibliothécaires aident les étudiants à avancer quand ils sont bloqués. 
 Le jeu se déroule sur une durée d'une 1h30
 
+# Se retrouver dans les documents liés au jeu
+
+Si vous souhaitez comprendre comment fonctionne le jeu. 
+Ouvrez le dossier *Consignes* et lisez le fichier *Panique à la Rédac consignes*
+Les indications quant au déroulement du jeu, la manière de l'administrer sont présentes dans ce document. 
+
+
 **Panique à la Rédac © 2022 by Damien Belvèze is licensed under CC BY 4.0** 

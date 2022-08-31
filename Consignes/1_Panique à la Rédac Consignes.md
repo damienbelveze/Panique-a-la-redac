@@ -71,11 +71,14 @@ Les animateurs, en tant que journalistes vétérans, vont guider le travail des 
 
 3. Leur présenter brièvement les outils dont ils disposent (outils.odt). Leur indiquer que ces outils ne fonctionnent pas à tous les coups. Qu'un cas peut être résolu au moyen d'une combinaison d'outils en suivant des étapes (stratégie de recherche), mais surtout qu'ils doivent d'abord faire des hypothèses et compter sur leur capacité de raisonnement et leur attention avant d'utiliser ces outils.
 
-4. Indiquer la forme du livrable : un chapô sur un l'un des documents choisi collégialement (voir ci-dessous)
+4. Indiquer aux étudiants qu'ils sont libres de s'organiser comme ils veulent. Il est conseillé de ne pas tous travailler sur le même document, ni sur le même type de documents (articles, images, vidéos).
+Les informer que les vidéos peuvent donner plus de fil à retordre que les articles ou les images. 
 
-5. Aider les étudiants lorsqu'ils sont bloqués au moyen des notes laissées dans les fichiers *2_Panique à la rédac Textes et images.odt* et *3_Panique à la rédac Photos*
+5. Indiquer la forme du livrable : un chapô sur un l'un des documents choisi collégialement (voir ci-dessous)
 
-6. Lorsque les 45 minutes sont échues, commenter le résultat et montrer aux étudiants comment résoudre les problèmes restants (s'il y a le temps). Répondre aux questions
+6. Aider les étudiants lorsqu'ils sont bloqués au moyen des notes laissées dans les fichiers *2_Panique à la rédac Textes et images.odt* et *3_Panique à la rédac Photos*
+
+7. Lorsque les 45 minutes sont échues, commenter le résultat et montrer aux étudiants comment résoudre les problèmes restants (s'il y a le temps). Répondre aux questions
 
 
 # consignes éditoriales
