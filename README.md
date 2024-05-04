@@ -29,4 +29,4 @@ Ouvrez le dossier *Consignes* et lisez le fichier *Panique à la Rédac consigne
 Les indications quant au déroulement du jeu, la manière de l'administrer sont présentes dans ce document. 
 
 
-**Panique à la Rédac © 2022 by Damien Belvèze is licensed under CC BY 4.0** 
+**Panique à la Rédac by Damien Belvèze is licensed under CC BY 4.0** 
